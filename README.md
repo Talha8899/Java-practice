@@ -1,2 +1,3 @@
 # Java-practice
-this repo consist thejava programs that I practice during my learning 
+This repo consist the java programs that I practice during my learning 
+Author-Talha
