@@ -47,21 +47,6 @@ Open the project in **IntelliJ IDEA** or **VS Code** and run directly with the p
 
 ---
 
-## 📂 Repo Structure
-
-```
-Java-practice/
-│
-├── basics/           # variables, data types, operators
-├── oop/              # classes, inheritance, interfaces
-├── arrays/           # arrays and ArrayList exercises
-├── exceptions/       # try-catch-finally examples
-└── strings/          # string methods and manipulation
-```
-
-> Note: Folder structure may vary — files are organised as concepts are added.
-
----
 
 ## 🎯 Purpose
 
