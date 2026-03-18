@@ -4,7 +4,7 @@ class calculator{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter two numbers");
-  int A=sc.nextInt();
+        int A=sc.nextInt();
         int B=sc.nextInt();
         System.out.println("enter operation you wanna perform");
         System.out.print("+\n-\n*\n/ \n");
